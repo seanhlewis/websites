@@ -4,8 +4,11 @@
 This repository is an updating list of all of the websites I have created and am maintaining.
 
 
+[Pirates Revenge Website](https://pirates-revenge.web.app/)
+<img src="https://user-images.githubusercontent.com/96705270/169421770-83709ab9-a29c-4814-8aa0-f61e88acca36.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/169421776-6a597ea0-b912-467f-b210-73effbd52c07.png" width="400" /> 
 
+[Shibuya Detective Website](https://shibuya-detective.web.app/)
+<img src="https://user-images.githubusercontent.com/96705270/169421782-a701f2cc-19dc-4216-8ba7-7e507bfb8cfe.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/169421786-3aca18fa-c8c0-4bbc-8f5a-16668b3b9784.png" width="400" />
 
-
-<img src="https://user-images.githubusercontent.com/96705270/168736945-afd1af13-f9ed-4229-8948-9777ed9f1aa5.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/168736949-2932c1d8-6a79-443f-8295-6be9d0b6d5ab.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/168736953-9e34d3c5-fb8c-438c-9b2e-3574474baeeb.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/168736960-c096a1ac-ff7c-4a84-9bdf-521557471fe5.png" width="400" />
-
+[Portfolio Website](https://seanhlewis.me/)
+<img src="https://user-images.githubusercontent.com/96705270/169421795-6cc2ee17-7e33-4d03-b4f7-df5773a6a4f7.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/169421802-543f1d98-1a9d-4c14-b931-1b5ac24ef10a.png" width="400" />
