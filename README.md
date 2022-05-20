@@ -15,6 +15,11 @@ This is a website for my game Shibuya Detective.
 
 <img src="https://user-images.githubusercontent.com/96705270/169421782-a701f2cc-19dc-4216-8ba7-7e507bfb8cfe.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/169421786-3aca18fa-c8c0-4bbc-8f5a-16668b3b9784.png" width="400" />
 
+[30 Seconds Website](https://thirty-second.web.app/) - [[Source Code]](https://github.com/seanhlewis/30-seconds/tree/website)  
+This is a website for my game 30 Seconds.  
+
+<img src="https://user-images.githubusercontent.com/96705270/169432506-47d6b45d-bfce-404b-b321-834770edafc3.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/169432510-822b15bf-1c36-44a8-b6a6-676418fb18b5.png" width="400" />
+
 [Portfolio Website](https://seanhlewis.me/) - [[Source Code]](https://github.com/seanhlewis/seanhlewis.github.io)  
 This is a portfolio website to advertise myself.  
 
