@@ -20,6 +20,11 @@ This is a website for my game 30 Seconds.
 
 <img src="https://user-images.githubusercontent.com/96705270/169432506-47d6b45d-bfce-404b-b321-834770edafc3.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/169432510-822b15bf-1c36-44a8-b6a6-676418fb18b5.png" width="400" />
 
+[Rabbit Website](https://rabbit-jam.web.app/) - [[Source Code]](https://github.com/seanhlewis/rabbit-website)  
+This is a website for my friend Mark Siminski's game Rabbit.  
+
+<img src="https://user-images.githubusercontent.com/96705270/169448931-cf61789d-8580-4ce9-a946-bd023bb7fcd3.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/169448937-253a64b1-3644-4d92-85bf-8aacd0574148.png" width="400" />
+
 [Portfolio Website](https://seanhlewis.me/) - [[Source Code]](https://github.com/seanhlewis/seanhlewis.github.io)  
 This is a portfolio website to advertise myself.  
 
