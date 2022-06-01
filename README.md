@@ -10,10 +10,10 @@ This is a website for my game Pirates Revenge.
 
 <img src="https://user-images.githubusercontent.com/96705270/169421770-83709ab9-a29c-4814-8aa0-f61e88acca36.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/169421776-6a597ea0-b912-467f-b210-73effbd52c07.png" width="400" /> 
 
-[RPG Wordle Website](https://rpgwordle.web.app/) - [[Source Code]](https://github.com/seanhlewis/RPGWordle-website)  
-This is a website for my mobile game RPG Wordle.
+[RPG Wurdle Website](https://rpgwurdle.web.app/) - [[Source Code]](https://github.com/seanhlewis/RPGWurdle-website)  
+This is a website for my mobile game RPG Wurdle.
 
-<img src="https://user-images.githubusercontent.com/96705270/169755424-3d9cf4a3-4afc-47bf-b318-df27a42bfde6.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/169755432-440b2d6b-e333-4202-a012-ffbb23563138.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/169755438-41edf7d4-3118-43c4-a0ea-9bc82786a239.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/169755444-a3dce520-9c6b-4d96-adb8-13fb8682d541.png" width="400" />
+<img src="https://user-images.githubusercontent.com/96705270/171306424-5579faac-8d9a-4aea-b08e-8799dabd7c3d.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/171306434-de0c28ec-9552-47e5-86e4-0fedf8c6204b.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/171306439-d94da445-60ff-498e-a298-5221e8a96760.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/171306443-7808134f-b2ee-4741-a231-67eb2b3bec6a.png" width="400" />
 
 [Shibuya Detective Website](https://shibuya-detective.web.app/) - [[Source Code]](https://github.com/seanhlewis/shibuya-detective)  
 This is a website for my game Shibuya Detective.  
