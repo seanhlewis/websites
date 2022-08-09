@@ -30,6 +30,11 @@ This is a website for my friend Mark Siminski's game Rabbit.
 
 <img src="https://user-images.githubusercontent.com/96705270/169448931-cf61789d-8580-4ce9-a946-bd023bb7fcd3.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/169448937-253a64b1-3644-4d92-85bf-8aacd0574148.png" width="400" />
 
+[Minesweeper Website](https://pysweep.web.app/) - [[Source Code]](https://github.com/seanhlewis/minesweeper)  
+This is a website for Minesweeper written from scratch in Python. 
+
+<img src="https://user-images.githubusercontent.com/96705270/183567921-6b8a94b5-e4d2-485b-8ca8-c5ef9da91a0d.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/183567926-4161af2a-c6cf-4328-a1f4-facd0adfc0f3.png" width="400" />
+
 [Portfolio Website](https://seanhlewis.me/) - [[Source Code]](https://github.com/seanhlewis/seanhlewis.github.io)  
 This is a portfolio website to advertise myself.  
 
