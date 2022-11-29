@@ -38,4 +38,4 @@ This is a website for Minesweeper written from scratch in Python.
 [Portfolio Website](https://seanhlewis.me/) - [[Source Code]](https://github.com/seanhlewis/seanhlewis.github.io)  
 This is a portfolio website to advertise myself.  
 
-<img src="https://user-images.githubusercontent.com/96705270/169421795-6cc2ee17-7e33-4d03-b4f7-df5773a6a4f7.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/169421802-543f1d98-1a9d-4c14-b931-1b5ac24ef10a.png" width="400" />
+<img src="https://user-images.githubusercontent.com/96705270/204424596-2799aced-9b98-4261-9332-4e18b0447bab.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/204424600-0dc51cc9-bb0d-47e0-956a-0e3afcc0a71f.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/204424603-2491e794-8d85-4865-811c-31a07aeadc81.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/204424608-65ba6146-6496-4e00-9ce0-d9900826b4ba.png" width="400" />
