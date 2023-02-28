@@ -24,6 +24,12 @@ This is a website for my game Shibuya Detective.
 
 <img src="https://user-images.githubusercontent.com/96705270/169421782-a701f2cc-19dc-4216-8ba7-7e507bfb8cfe.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/169421786-3aca18fa-c8c0-4bbc-8f5a-16668b3b9784.png" width="400" />
 
+[Fishori Website](https://fishorigame.web.app/) - [[Source Code]](https://github.com/seanhlewis/fishori-website)  
+This is a website for my Steam game Fishori.  
+
+<img src="https://user-images.githubusercontent.com/96705270/221730419-b2f6fe28-e83a-440c-b899-4724b885e098.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/221730447-d6ce93ab-4c03-4c3f-874c-5cb54786efdf.png" width="400" />
+<img src="https://user-images.githubusercontent.com/96705270/221730454-04d57cac-94e8-4bcc-a547-41f363783fbb.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/221730438-ad238f9f-02e3-4753-810b-ccb6db14e010.png" width="400" />
+
 [30 Seconds Website](https://thirty-second.web.app/) - [[Source Code]](https://github.com/seanhlewis/30-seconds/tree/website)  
 This is a website for my game 30 Seconds.  
 
