@@ -3,7 +3,11 @@
 
 This repository is an updating list of all of the websites I have created and am maintaining.
   
-  
+[OpenCityAI Website](https://opencityai.com/) - [[Source Code]](https://github.com/urbaninfolab)  
+This is a website for my research project OpenCityAI.  
+
+<img src="https://user-images.githubusercontent.com/96705270/223925301-90f7fe4d-b7af-4275-befb-860994fc6a14.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/223925310-8cab348a-99c0-4f11-9c6a-03f7cf3ae3ca.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/223925318-c5be602d-1cbb-4a53-8849-7dd92705c18d.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/223925330-4a931dd6-1c49-4322-9641-d7a43506326d.png" width="400" /> 
+
 [SmartCityData Website](https://smartcity.tacc.utexas.edu/CityData/) - [[Source Code]](https://github.com/Good-Systems/SmartCityData)  
 This is a website for my research project SmartCityData.  
 
