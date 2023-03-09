@@ -49,11 +49,6 @@ This is a website for my friend Mark Siminski's game Rabbit.
 
 <img src="https://user-images.githubusercontent.com/96705270/169448931-cf61789d-8580-4ce9-a946-bd023bb7fcd3.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/169448937-253a64b1-3644-4d92-85bf-8aacd0574148.png" width="400" />
 
-[Atmosphere Cloud Website](https://the-atmosphere-cloud.web.app/) - [[Source Code]](https://github.com/Atmosphere-Cloud)  
-This is a temporary website for an ongoing project called Atmosphere Cloud.  
-
-<img src="https://user-images.githubusercontent.com/96705270/223917825-11b41e27-ff3d-4c88-875f-782b55d37682.png" width="400" />
-
 [Minesweeper Website](https://pysweep.web.app/) - [[Source Code]](https://github.com/seanhlewis/minesweeper)  
 This is a website for Minesweeper written from scratch in Python. 
 
