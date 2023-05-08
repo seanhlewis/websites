@@ -18,6 +18,11 @@ This is a website for my game Pirates Revenge.
 
 <img src="https://user-images.githubusercontent.com/96705270/169421770-83709ab9-a29c-4814-8aa0-f61e88acca36.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/169421776-6a597ea0-b912-467f-b210-73effbd52c07.png" width="400" /> 
 
+[GlobalPE Website](https://global-pe.web.app/) - [[Source Code]](https://github.com/seanhlewis/global-pe)  
+This is a website for my personal project GlobalPE.  
+
+<img src="https://user-images.githubusercontent.com/96705270/236710026-8474c39b-c18f-497e-aa5d-adc4a53db76d.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/236710035-3c4af7ba-d424-4725-a508-78033263f9f0.png" width="400" /> 
+
 [RPG Wurdle Website](https://rpgwurdle.web.app/) - [[Source Code]](https://github.com/seanhlewis/RPGWurdle-website)  
 This is a website for my mobile game RPG Wurdle.
 
