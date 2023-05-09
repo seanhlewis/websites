@@ -18,6 +18,11 @@ This is a website for my research project DataPowered AI.
 
 <img src="https://user-images.githubusercontent.com/96705270/236999230-5ccf0b2c-de13-4f00-bcf0-c03eec5c4cc6.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/236999237-279b0685-8530-48e4-a8c3-1ead30935349.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/236999242-0d91b05f-41ea-4cf3-a797-76a66d6ce790.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/236999251-5b9ab8a0-64fe-4fbf-a1d9-ae3f5a4420fd.png" width="400" /> 
 
+[AuditoryAR Website](https://auditoryar.com/) - [[Source Code]](https://github.com/seanhlewis/AuditoryAR)  
+This is a website for my personal project AuditoryAR.  
+
+<img src="https://user-images.githubusercontent.com/96705270/237001137-367e3bf2-42df-48cf-8086-06876b125d18.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/237001142-675b1e7d-1b9d-4e23-9b41-aac3e6987e5e.png" width="400" /> 
+
 [Pirates Revenge Website](https://pirates-revenge.web.app/) - [[Source Code]](https://github.com/seanhlewis/pirates-revenge-website)  
 This is a website for my game Pirates Revenge.  
 
