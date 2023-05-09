@@ -1,7 +1,7 @@
 [![kNNmdD.png](https://user-images.githubusercontent.com/96705270/169637610-db819c13-a553-4550-aa4b-d2022839338c.png)](https://user-images.githubusercontent.com/96705270/169637610-db819c13-a553-4550-aa4b-d2022839338c.png)
 
 
-This repository is an updating list of all of the websites I have created and am maintaining.
+This repository is a select list of some of the websites I have created and am maintaining.
   
 [OpenCityAI Website](https://opencityai.com/) - [[Source Code]](https://github.com/urbaninfolab/OpenCityAI)  
 This is a website for my research project OpenCityAI.  
