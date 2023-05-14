@@ -74,6 +74,11 @@ This is a website for my friend Mark Siminski's game Rabbit.
 
 <img src="https://user-images.githubusercontent.com/96705270/169448931-cf61789d-8580-4ce9-a946-bd023bb7fcd3.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/169448937-253a64b1-3644-4d92-85bf-8aacd0574148.png" width="400" />
 
+[Patchwork Beast Website](https://aspengames.org/patchworkbeast) - [[Source Code]](https://github.com/aspengames/Patchwork_Beast)  
+This is a website for my startup's game Patchwork Beast.  
+
+<img src="https://github.com/seanhlewis/seanhlewis/assets/96705270/836c06c3-5b98-4465-ba01-4294caf695b7" width="400" /> <img src="https://github.com/seanhlewis/seanhlewis/assets/96705270/3fcf68d8-945a-4046-9755-3eda710b384f" width="400" /> <img src="https://github.com/seanhlewis/seanhlewis/assets/96705270/7c994598-9aab-438b-b3a0-218e6fd5376b" width="400" /> <img src="https://github.com/seanhlewis/seanhlewis/assets/96705270/4a624daa-3d3e-4c19-b18d-5fe206fbe1b3" width="400" />
+
 [Minesweeper Website](https://pysweep.web.app/) - [[Source Code]](https://github.com/seanhlewis/minesweeper)  
 This is a website for Minesweeper written from scratch in Python. 
 
