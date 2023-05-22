@@ -16,7 +16,7 @@ This is a website for my research project SmartCityData.
 [DataPowered AI Website](https://datapowered.ai/) - [[Source Code]](https://github.com/seanhlewis/DataPoweredAI)  
 This is a website for my research project DataPowered AI.  
 
-<img src="https://user-images.githubusercontent.com/96705270/236999230-5ccf0b2c-de13-4f00-bcf0-c03eec5c4cc6.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/236999237-279b0685-8530-48e4-a8c3-1ead30935349.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/236999242-0d91b05f-41ea-4cf3-a797-76a66d6ce790.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/236999251-5b9ab8a0-64fe-4fbf-a1d9-ae3f5a4420fd.png" width="400" /> 
+<img src="https://github.com/seanhlewis/websites/assets/96705270/0dbb9271-14a6-45b6-843e-dc01cddc4775" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/236999237-279b0685-8530-48e4-a8c3-1ead30935349.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/236999242-0d91b05f-41ea-4cf3-a797-76a66d6ce790.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/236999251-5b9ab8a0-64fe-4fbf-a1d9-ae3f5a4420fd.png" width="400" /> 
 
 [AuditoryAR Website](https://auditoryar.com/) - [[Source Code]](https://github.com/seanhlewis/AuditoryAR)  
 This is a website for my personal project AuditoryAR.  
