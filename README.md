@@ -26,7 +26,7 @@ This is a website for my personal project AuditoryAR.
 [Aspen Games Website](https://aspengames.org/) - [[Source Code]](https://github.com/seanhlewis/aspengames-website)  
 This is a website for my startup Aspen Games.  
 
-<img src="https://github.com/seanhlewis/seanhlewis/assets/96705270/71bc56dc-83f2-4ec1-811e-ea8ae63d4e35" width="400" /> <img src="https://github.com/seanhlewis/seanhlewis/assets/96705270/fff5d715-0437-4b53-be9c-4e634fa651bf" width="400" /> 
+<img src="https://github.com/seanhlewis/seanhlewis/assets/96705270/71bc56dc-83f2-4ec1-811e-ea8ae63d4e35" width="400" /> <img src="https://github.com/seanhlewis/websites/assets/96705270/d1155667-d53b-463f-825b-403f3090f250" width="400" /> <img src="https://github.com/seanhlewis/websites/assets/96705270/6aa334b5-8666-404a-a898-319f50e7e8c5" width="400" /> <img src="https://github.com/seanhlewis/seanhlewis/assets/96705270/fff5d715-0437-4b53-be9c-4e634fa651bf" width="400" /> 
 
 [Pirates Revenge Website](https://pirates-revenge.web.app/) - [[Source Code]](https://github.com/seanhlewis/pirates-revenge-website)  
 This is a website for my game Pirates Revenge.  
