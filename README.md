@@ -77,7 +77,7 @@ This is a website for my friend Mark Siminski's game Rabbit.
 [Patchwork Beast Website](https://aspengames.org/patchworkbeast) - [[Source Code]](https://github.com/aspengames/Patchwork_Beast)  
 This is a website for my startup's game Patchwork Beast.  
 
-<img src="https://github.com/seanhlewis/seanhlewis/assets/96705270/836c06c3-5b98-4465-ba01-4294caf695b7" width="400" /> <img src="https://github.com/seanhlewis/seanhlewis/assets/96705270/3fcf68d8-945a-4046-9755-3eda710b384f" width="400" /> <img src="https://github.com/seanhlewis/seanhlewis/assets/96705270/7c994598-9aab-438b-b3a0-218e6fd5376b" width="400" /> <img src="https://github.com/seanhlewis/seanhlewis/assets/96705270/4a624daa-3d3e-4c19-b18d-5fe206fbe1b3" width="400" />
+<img src="https://github.com/seanhlewis/websites/assets/96705270/4a0e0742-0717-4c0a-b9bb-a8dd9cb81a4f" width="400" /> <img src="https://github.com/seanhlewis/websites/assets/96705270/8c0be3ea-e26e-4e64-b16d-327f00e9a914" width="400" /> <img src="https://github.com/seanhlewis/websites/assets/96705270/cae6dee1-c5c9-4d75-b117-b9996558f902" width="400" /> <img src="https://github.com/seanhlewis/seanhlewis/assets/96705270/4a624daa-3d3e-4c19-b18d-5fe206fbe1b3" width="400" />
 
 [Minesweeper Website](https://pysweep.web.app/) - [[Source Code]](https://github.com/seanhlewis/minesweeper)  
 This is a website for Minesweeper written from scratch in Python. 
