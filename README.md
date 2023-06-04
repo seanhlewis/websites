@@ -84,6 +84,12 @@ This is a website for Minesweeper written from scratch in Python.
 
 <img src="https://user-images.githubusercontent.com/96705270/183567921-6b8a94b5-e4d2-485b-8ca8-c5ef9da91a0d.png" width="400" /> <img src="https://user-images.githubusercontent.com/96705270/183567926-4161af2a-c6cf-4328-a1f4-facd0adfc0f3.png" width="400" />
 
+[Laurel Co-op Website](https://laurelcoop.org) - [[Source Code]](https://github.com/seanhlewis/laurelcoop-website)  
+This is a website for Laurel Co-op in Austin, Texas.  
+
+<img src="https://github.com/seanhlewis/websites/assets/96705270/ae5731fc-8910-49ca-b18c-7c26ea67453d" width="400" /> <img src="https://github.com/seanhlewis/websites/assets/96705270/ff5ce69e-4ebd-4726-8227-470bd17e001e" width="400" /> <img src="https://github.com/seanhlewis/websites/assets/96705270/344c58ab-ff51-4cd6-915d-72c11dfb5bfb" width="400" /> <img src="https://github.com/seanhlewis/websites/assets/96705270/63bd4cab-f4cb-47dc-b716-1e170d199e8a" width="400" />
+
+
 [Portfolio Website](https://seanhlewis.me/) - [[Source Code]](https://github.com/seanhlewis/seanhlewis.github.io)  
 This is a portfolio website to advertise myself.  
 
